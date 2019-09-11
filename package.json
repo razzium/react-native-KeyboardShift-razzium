@@ -1,5 +1,5 @@
 {
-  "name": "react-native-KeyboardShift-razzium",
+  "name": "react-native-keyboardshift-razzium",
   "version": "1.0.0",
   "description": "A view (not a ScrollView !) component that handle keyboard display and prevent cover current focused input (based on John Tucker article : https://codeburst.io/react-native-keyboard-covering-inputs-72a9d3072689).",
   "main": "KeyboardShift.js",
